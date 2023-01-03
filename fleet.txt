@@ -1,0 +1,6 @@
+Carrier,5x2
+Battleship,4x2
+Mugwump,4x1
+Submarine,3x2
+Destroyer,3x1
+Patrol Boat,2x1
